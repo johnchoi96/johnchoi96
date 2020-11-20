@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnchoi96&show_icons=true&theme=default)
  
 #### Personal @johnchoi96
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnchoi96&layout=compact&hide=html,css)](https://github.com/johnchoi96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnchoi96&layout=compact&hide=html,css&langs_count=10)](https://github.com/johnchoi96/)
 
 #### School Projects @choi1655
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi1655&layout=compact)](https://github.com/choi1655/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi1655&layout=compact&langs_count=8)](https://github.com/choi1655/)
