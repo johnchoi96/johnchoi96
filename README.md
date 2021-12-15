@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 
-I'm John Choi, and I am an undergraduate student studying Computer Science and Engineering at The Ohio State University. I have experience in iOS development with Swift and UIKit, C, C++, Java, and Python to name a few of my skills, and I am passionately looking to get further into the iOS development field.
+I'm John Choi, and I am an undergraduate student studying Computer Science and Engineering at The Ohio State University. I have experience in iOS development with Swift and UIKit, C, C++, Java, and Python to name a few of my skills, and I am passionately looking to get further into software engineering.
 
 <!--
 **johnchoi96/johnchoi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
