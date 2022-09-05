@@ -1,5 +1,7 @@
 ### Hi there 👋
-- I'm John Choi, and I am a recent Computer Science and Engineering graduate from The Ohio State University’s College of Engineering. I have experience in iOS Development (Swift/UIKit), Python, Java, C, C++, and Linux to name a few of my skills, and I am passionately looking to get further into software engineering.
+- 💬 I'm John Choi, and I am a recent Computer Science and Engineering graduate from The Ohio State University’s College of Engineering. I have experience in iOS Development (Swift/UIKit), Python, Java, C, C++, React.JS, and Linux to name a few of my skills, and I am passionately looking to get further into software engineering.
+- 💬 Software Engineer @ JPMorgan Chase & Co.
+- 💬 Prev: SWE Intern @ Apple, SAS Software, Lenovo
 <!--
 **johnchoi96/johnchoi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
