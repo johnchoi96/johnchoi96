@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnchoi96&show_icons=true&theme=default)
- 
-#### Personal @johnchoi96
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnchoi96&layout=compact&hide=html,css&langs_count=10)](https://github.com/johnchoi96/)
-
-#### Academic Projects @choi1655
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi1655&layout=compact&langs_count=8)](https://github.com/choi1655/)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnchoi96&theme=github)
+<br />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnchoi96&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnchoi96&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnchoi96&theme=github)
