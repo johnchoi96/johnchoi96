@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 <br />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnchoi96&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnchoi96&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnchoi96&theme=github)
