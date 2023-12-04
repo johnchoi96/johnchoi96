@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 I'm John Choi, and I currently work as a software engineer. I have development experience in backend dev with Spring Boot and FastAPI, frontend dev with React.js/ts, iOS dev with Swift/UIKit, Python, C, C++, and Linux to list a few of my skills, and I am passionately looking to get further into software engineering.
+- 💬 I'm John Choi and I currently work as a software engineer. I have development experience in backend dev with Spring Boot and FastAPI, frontend dev with React.js/ts, iOS dev with Swift/UIKit, Python, C, C++, and C# to list a few of my skills, and I am passionately looking to get further into software engineering.
 - 💬 Software Engineer @ JPMorgan Chase & Co.
 - 💬 Prev: SWE Intern @ Apple, SAS Software, UMD/NASA, Lenovo
 - 🎓 Georgia Institute of Technology, College of Computing, Master of Science in Computer Science '26
