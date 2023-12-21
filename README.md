@@ -2,8 +2,8 @@
 - 💬 I'm John Choi and I currently work as a software engineer. I have development experience in backend dev with Spring Boot and FastAPI, frontend dev with React.js/ts, iOS dev with Swift/UIKit, Python, C, C++, and C# to list a few of my skills, and I am passionately looking to get further into software engineering.
 - 💬 Software Engineer @ JPMorgan Chase & Co.
 - 💬 Prev: SWE Intern @ Apple, SAS Software, UMD/NASA, Lenovo
-- 🎓 Georgia Institute of Technology, College of Computing, Master of Science in Computer Science '27
-- 🎓 The Ohio State University, College of Engineering, Bachelor of Science in Computer Science and Engineering '22
+- 🎓 Georgia Institute of Technology, College of Computing, Master of Science - MS, Computer Science '27
+- 🎓 The Ohio State University, College of Engineering, Bachelor of Science - BS, Computer Science and Engineering '22
 <!--
 **johnchoi96/johnchoi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
