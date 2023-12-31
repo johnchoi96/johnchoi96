@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnchoi96&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnchoi96&theme=algolia)
 <br />
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnchoi96&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnchoi96&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnchoi96&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnchoi96&theme=algolia)
